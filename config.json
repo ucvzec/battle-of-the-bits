@@ -1,0 +1,29 @@
+{
+	"badWordsList": [
+		"fortnite",
+		"fuck",
+		"bitch",
+		"ass",
+		"apex legends",
+		"3 aces",
+		"triple ace",
+		"smash bros",
+		"kittens",
+		"ben",
+		"benjamn",
+		"breisen42",
+		"minecraft",
+		"sucks",
+		"cordell",
+		"siege",
+		"twitch",
+		"dorito face",
+		"thot",
+		"csgo",
+		"donald j trump",
+		"build that wall"
+	],
+	"badWordsFile": "badmessages.dat",
+	"newlineSequence": "֎",
+	"tabSequence": "֍"
+}
